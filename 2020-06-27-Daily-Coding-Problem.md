@@ -1,11 +1,11 @@
 ---
-layout:    post
-title:     Daily Coding Problem
-subtitle:  Daily Coding Problem
-date:      2020-06-27
-author:    Jialong
-header-img:img/daily coding problem.png
-catalog:   true
+layout:          post
+title:               Daily Coding Problem
+subtitle:         Daily Coding Problem
+date:              2020-06-27
+author:          Jialong
+header-img:  
+catalog:          true
 ---
 
 ># Daily Coding Problem
@@ -35,4 +35,4 @@ for i in range(0,len(numlist)):
 
 **Result:**
 
-![](https://raw.githubusercontent.com/Jialong-c/images/master/Blog/daily coding problem/#1.png)
+![](https://raw.githubusercontent.com/Jialong-c/images/master/Blog/coding/#1.png)
